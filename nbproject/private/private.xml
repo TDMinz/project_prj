@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Netbean/Web_Qa/web/detail.jsp</file>
+            <file>file:/D:/Netbean/Web_Qa/web/ManagerCustomer.jsp</file>
+            <file>file:/D:/Netbean/Web_Qa/web/components/footerComponent.jsp</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/controller/SearchController.java</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/controller/LoadController.java</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/dal/ShippingDBcontext.java</file>
+            <file>file:/D:/Netbean/Web_Qa/web/components/navBarComponent.jsp</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/controller/CheckOutController.java</file>
+            <file>file:/D:/Netbean/Web_Qa/web/Edit.jsp</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/dal/DBContext.java</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/controller/ThankController.java</file>
+            <file>file:/D:/Netbean/Web_Qa/web/js/ManagerProduct.js</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/dal/ProductDBContext.java</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/controller/AddToCartController.java</file>
+            <file>file:/D:/Netbean/Web_Qa/web/ManagerProduct.jsp</file>
+            <file>file:/D:/Netbean/Web_Qa/web/css/login.css</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/controller/LoadCategoryController.java</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/controller/ManagerController.java</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/model/OrderDetail.java</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/model/Category.java</file>
+            <file>file:/D:/Netbean/Web_Qa/web/home.jsp</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/model/Shipping.java</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/controller/NewServlet.java</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/dal/OrderDetailDBcontext.java</file>
+            <file>file:/D:/Netbean/Web_Qa/web/checkout.jsp</file>
+            <file>file:/D:/Netbean/Web_Qa/web/css/ManagerProduct.css</file>
+            <file>file:/D:/Netbean/Web_Qa/src/java/controller/LogoutControl.java</file>
+            <file>file:/D:/Netbean/Web_Qa/web/thanks.jsp</file>
+        </group>
+    </open-files>
+</project-private>
